@@ -1,0 +1,35 @@
+[{
+    "id": 1,
+    "title": "Lord of the Rings: The Fellowship of the Ring",
+    "author": "Tolkien J.R.R.",
+    "img": "images/lotr1.png",
+    "rating": 8 
+},
+{
+    "id": 2,
+    "title": "Lord of the Rings: The Two Towers",
+    "author": "Tolkien J.R.R.",
+    "img": "images/lotr2.png",
+    "rating": 10 
+},
+{
+    "id": 3,
+    "title": "Lord of the Rings: The Return of the King",
+    "author": "Tolkien J.R.R.",
+    "img": "images/lotr3.png",
+    "rating": 9 
+},
+{
+    "id": 4,
+    "title": "The Thirst",
+    "author": "Nesbo Jo",
+    "img": "images/thirst.png",
+    "rating": 9 
+},
+{
+    "id": 5,
+    "title": "Murder on the Orient Express",
+    "author": "Christie Agatha",
+    "img": "images/oe.png",
+    "rating": 7 
+}]
